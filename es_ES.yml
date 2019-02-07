@@ -1,0 +1,136 @@
+lang_literal: 'es_ES'
+verified_message: 'Esta búsqueda fue verificada.'
+bomb_message: 'Este mensaje se autodestruirá en A0B0 segundos...'
+command_list_title_internal: '**Lista de Comandos**'
+try_again_info: 'Intentalo nuevamente, si tienes problemas con el servicio envía un mensaje en el discord oficial de Hytale Fandom.'
+command_list_desc_internal: |
+                            
+                            Si tienes alguna sugerencia no dudes en enviarnos un mensaje en
+                            el canal de sugerencias.
+                            
+                            **.invite**      Recibir un link para invitarme a otro servidor.
+                            **.help**        Ver la lista de comandos disponibles.
+                            **.ayuda**       Ver la lista de comandos disponibles.
+                            **.find**        Busca un articulo en la wikia.
+                            **.buscar**      Busca un articulo en la wikia.
+                            
+                            :blue_book: **Hytale Fandom:** <https://es.hytale.wikia/>
+                            :orange_book: **Discord Oficial:** <https://discord.gg/NU4wmjD>
+                            :green_book: **Hytale Hispano:** <https://www.hytalehispano.es/>
+                            :closed_book: **Hytale Hispano Discord:** <https://discord.gg/mpzf2tg>
+                            
+command_list_title_external: ':notepad_spiral: **Lista de Comandos**'
+command_list_desc_external: |
+                            
+                            Si tienes alguna sugerencia no dudes en enviarnos un mensaje en
+                            el canal de sugerencias del Discord de Hytale Fandom.
+                            
+                            **.install**     (Admin) Instalar el Bot en un canal.
+                            **.invite**      Recibir un link para invitarme a otro servidor.
+                            **.help**        Ver la lista de comandos disponibles.
+                            **.ayuda**       Ver la lista de comandos disponibles.
+                            **.find**        Busca un articulo en la wikia.
+                            **.buscar**      Busca un articulo en la wikia.
+                            
+                            :blue_book: **Hytale Fandom:** <https://es.hytale.wikia/>
+                            :orange_book: **Discord Oficial:** <https://discord.gg/NU4wmjD>
+                            
+                            **Bot desarrollado por Hytale Hispano - 2019 - v3**
+                           
+no_args_title: '**Faltan argumentos!**'
+no_args_reply:  |
+                
+                Debes especificar que articulo quieres buscar, aquí te dejo un ejemplo
+                del uso del comando para buscar articulos:
+                
+try_again_or_search_by_yourself: 'Intentalo nuevamente, si tienes problemas con el servicio trata de buscarlo manualmente.' 
+no_args_install_reply:  |
+                        
+                        Debes especificar la id del canal que quieres utilizar para las funciónes
+                        generales del bot, aquí tienes el manejo del comando:
+                        
+                        
+finding_results_title: "Buscando resultados de 'A0B1'..."
+finding_results_footer: 'Una vez encontrado el articulo se modificará este mensaje.'
+not_results_title: "**No se encontraron resultados para 'A0B1'!**"
+not_results_description:    |
+                            
+                            Prueba buscandolo manualmente en el sitio web o en caso de que no exista puedes crearlo y así aportar a la comunidad.
+                            
+                            **Wikia:** A0B2
+                            **Crear el Artículo:** A0B3
+                            
+article_name: 'Artículo'
+article_found_title: "**A0B1:** A0B2"
+article_found_description:  |
+                            
+                            A0B3
+                            
+                            **Ver más:** A0B4
+                            **Editar:** A0B5
+                            **Wikia:** A0B6
+                            
+internal_error_title: '**¡Ha ocurrido un error interno!**'
+internal_error_description: |
+                            
+                            Estamos experimentando problemas con el servicio, intenta buscar el articulo manualmente en nuestra página web.\n
+                            
+                            **Wikia:** A0B1
+                            **Página del Artículo:** A0B2
+                            
+generate_link_title: '**Link Generado**'
+generate_link_description:  |
+                            
+                            Con el siguiente link podrás invitarme a tu servidor personal de Discord,
+                            recuerda que una vez allí deberás utilizar el comando A0B1, para
+                            realizar la respectiva instalación.
+                            
+need_admin_title: '**Necesitas ser Administrador**'
+need_admin_description: |
+                        
+                        Debes tener el permiso de administrador en este servidor para
+                        poder utilizar este comando.
+                        
+installation_sucess_title: '**Instalación Completada**'
+installation_sucess_description:    |
+                                    
+                                    Se utilizará unicamente este canal para el manejo de la wiki
+                                    y todos sus demás comandos, recuerda que puedes ver la lista de
+                                    de comandos utilizando:
+                                    
+installation_error_is_not_textchannel_title: '**El canal que especificaste no es un canal de texto!**'
+installation_error_is_not_textchannel_description:  |
+                                                    
+                                                    Debes especificar la id de un canal de texto válido para poder
+                                                    utilizar el bot en dicho canal, uso del comando:
+                                                    
+installation_error_id_not_exists_title: "**El canal con la ID 'A0B1' no existe!**"
+installation_error_id_not_exists_description:   |
+                                                
+                                                Debes especificar la id del canal que quieres utilizar para las funciónes
+                                                generales del bot, aquí tienes el manejo del comando:
+                                                
+erroneous_argument_title: ':anger: **Argumento erróneo!**'
+erroneous_argument_description: |
+                                
+                                Debes especificar una id de un canal valido, aquí tienes el
+                                manejo del comando:
+                                ```css
+                                .install <id-del-canal>
+                                ```
+                                
+                                Intentalo nuevamente, si tienes problemas con el servicio envía un mensaje en el discord oficial de Hytale Fandom.
+                                
+change_language_title: '**Cambiar de lenguaje**'
+change_language_description:    |
+                                
+                                Da click en la reacción que tiene la bandera del idioma especificado,
+                                luego de eso el bot automaticamente cambiará todos los mensajes e
+                                incluso subdominios a ese idioma (algunos son traducidos).
+                                
+available_langs: '**Lenguajes disponibles:**'
+change_language_sucess_title: '**Idioma cambiado correctamente!**'
+change_language_sucess_description:    |
+                                
+                                       Has cambiado el lenguaje de A0B1 a A0B2.
+                                
