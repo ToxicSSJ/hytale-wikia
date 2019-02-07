@@ -1,120 +1,111 @@
-lang_literal: 'es_ES'
-verified_message: 'Esta búsqueda fue verificada.'
-bomb_message: 'Este mensaje se autodestruirá en A0B0 segundos...'
-command_list_title_internal: '**Lista de Comandos**'
-try_again_info: 'Intentalo nuevamente, si tienes problemas con el servicio envía un mensaje en el discord oficial de Hytale Fandom.'
-command_list_title: '**Lista de Comandos**'
+lang_literal: 'en_US'
+verified_message: 'This search was verified.'
+bomb_message: 'This message will self-destruct in A0B0 seconds...'
+try_again_info: 'If you detect problems with the service send a message to the official discord of **Hytale Fandom**.'
+command_list_title: '**Command List**'
 command_list_desc:  |
                     
-                    Si tienes alguna sugerencia no dudes en enviarnos un mensaje en
-                    el canal de sugerencias.
+                    If you have any idea send them in the
+                    suggestion channel.
                     
                     A0B1
                     
-                    A0B2 
+                    A0B2
                     A0B3
                     
-                    **Bot desarrollado por Hytale Hispano - 2019 - v3** 
-                    
-command_install_tooltip: '(Admin) Instalar el Bot en un canal.'
-command_invite_tooltip: 'Recibir un link para invitarme a otro servidor.' 
-command_help_tooltip: 'Ver la lista de comandos disponibles.'
-command_find_tooltip: 'Busca un articulo en la wikia.'   
-command_lang_tooltip: 'Cambiar de lenguaje.'                                 
-no_args_title: '**Faltan argumentos!**'
+                    **Bot developed by Hytale Hispano - 2019 - v3** 
+
+command_install_tooltip: '(Admin) Define the bot channel.'
+command_invite_tooltip: 'Invite the bot to your Discord server.' 
+command_help_tooltip: 'Get the command list.'
+command_find_tooltip: 'Search in the wikia.'   
+command_lang_tooltip: 'Choose the language.'                       
+no_args_title: '**Missing arguments!**'
 no_args_reply:  |
                 
-                Debes especificar que articulo quieres buscar, aquí te dejo un ejemplo
-                del uso del comando para buscar articulos:
+                You must specify, here i have an example
+                of how to use the bot command:
                 
-try_again_or_search_by_yourself: 'Intentalo nuevamente, si tienes problemas con el servicio trata de buscarlo manualmente.' 
+try_again_or_search_by_yourself: 'Try again, if you have problems with the service, search manually (Sorry).' 
 no_args_install_reply:  |
                         
-                        Debes especificar la id del canal que quieres utilizar para las funciónes
-                        generales del bot, aquí tienes el manejo del comando:
+                        You must specify the ID of the channel
+                        here i have an example of how to use the command:
                         
                         
-finding_results_title: "Buscando resultados de 'A0B1'..."
-finding_results_footer: 'Una vez encontrado el articulo se modificará este mensaje.'
-not_results_title: "**No se encontraron resultados para 'A0B1'!**"
+finding_results_title: "Searching 'A0B1'..."
+finding_results_footer: 'This message will be edited in a moment.'
+not_results_title: "**No results found about 'A0B1'!**"
 not_results_description:    |
                             
-                            Prueba buscandolo manualmente en el sitio web o en caso de que no exista puedes crearlo y así aportar a la comunidad.
+                            Try searching your-self or Contribute to the community and write it!.
                             
                             **Wikia:** A0B2
-                            **Crear el Artículo:** A0B3
+                            **Create new article:** A0B3
                             
-article_name: 'Artículo'
+article_name: 'Article'
 article_found_title: "**A0B1:** A0B2"
 article_found_description:  |
                             
                             A0B3
                             
-                            **Ver más:** A0B4
-                            **Editar:** A0B5
+                            **See more:** A0B4
+                            **Edit:** A0B5
                             **Wikia:** A0B6
                             
-internal_error_title: '**¡Ha ocurrido un error interno!**'
+internal_error_title: '**¡Internal error!**'
 internal_error_description: |
                             
-                            Estamos experimentando problemas con el servicio, intenta buscar el articulo manualmente en nuestra página web.\n
+                            Internal error, possibly the servers are down or in maintenance.\n
                             
                             **Wikia:** A0B1
-                            **Página del Artículo:** A0B2
+                            **Article page:** A0B2
                             
-generate_link_title: '**Link Generado**'
+generate_link_title: '**Generated Link**'
 generate_link_description:  |
                             
-                            Con el siguiente link podrás invitarme a tu servidor personal de Discord,
-                            recuerda que una vez allí deberás utilizar el comando A0B1, para
-                            realizar la respectiva instalación.
+                            With this link you can invite me to your Discord Server,
+                            after that use the command {cmd}, to
+                            install the bot.
                             
-need_admin_title: '**Necesitas ser Administrador**'
+need_admin_title: '**Error! Only Administrators**'
 need_admin_description: |
                         
-                        Debes tener el permiso de administrador en este servidor para
-                        poder utilizar este comando.
+                        You do not have the respective permits
+                        to be able to use this command.
                         
-installation_sucess_title: '**Instalación Completada**'
+installation_sucess_title: '**Finished Installation**'
 installation_sucess_description:    |
                                     
-                                    Se utilizará unicamente este canal para el manejo de la wiki
-                                    y todos sus demás comandos, recuerda que puedes ver la lista de
-                                    de comandos utilizando:
+                                    The bot can only send messages and detect commands here,
+                                    remember: you can see the Command List with
                                     
-installation_error_is_not_textchannel_title: '**El canal que especificaste no es un canal de texto!**'
+installation_error_is_not_textchannel_title: '**Only text channels are allowed!**'
 installation_error_is_not_textchannel_description:  |
                                                     
-                                                    Debes especificar la id de un canal de texto válido para poder
-                                                    utilizar el bot en dicho canal, uso del comando:
+                                                    You must specify the ID of a text channel
+                                                    here i have an example of how to use the command:
                                                     
-installation_error_id_not_exists_title: "**El canal con la ID 'A0B1' no existe!**"
+installation_error_id_not_exists_title: "**The channel with the ID 'A0B1' not exist!**"
 installation_error_id_not_exists_description:   |
                                                 
-                                                Debes especificar la id del canal que quieres utilizar para las funciónes
-                                                generales del bot, aquí tienes el manejo del comando:
+                                                You must specify the ID of a text channel
+                                                here i have an example of how to use the command:
                                                 
-erroneous_argument_title: ':anger: **Argumento erróneo!**'
+erroneous_argument_title: '**Wrong argument!**'
 erroneous_argument_description: |
                                 
-                                Debes especificar una id de un canal valido, aquí tienes el
-                                manejo del comando:
-                                ```css
-                                .install <id-del-canal>
-                                ```
+                                You must specify the ID of a text channel
+                                here i have an example of how to use the command:
                                 
-                                Intentalo nuevamente, si tienes problemas con el servicio envía un mensaje en el discord oficial de Hytale Fandom.
-                                
-change_language_title: '**Cambiar de lenguaje**'
+change_language_title: '**Change language**'
 change_language_description:    |
                                 
-                                Da click en la reacción que tiene la bandera del idioma especificado,
-                                luego de eso el bot automaticamente cambiará todos los mensajes e
-                                incluso subdominios a ese idioma (algunos son traducidos).
+                                Click on the reaction of the flag of the specified language, after that the bot will automatically change all messages and even subdomains to that language (some are translated).
                                 
-available_langs: '**Lenguajes disponibles:**'
-change_language_sucess_title: '**Idioma cambiado correctamente!**'
+available_langs: '**Available languages:**'
+change_language_sucess_title: '**Language changed correctly!**'
 change_language_sucess_description:    |
                                 
-                                       Has cambiado el lenguaje de A0B1 a A0B2.
+                                       You have changed the language from A0B1 to A0B2.
                                 
