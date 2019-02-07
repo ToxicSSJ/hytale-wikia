@@ -1,42 +1,25 @@
 lang_literal: 'en_US'
 verified_message: 'This search was verified.'
 bomb_message: 'This message will self-destruct in A0B0 seconds...'
-command_list_title_internal: '**Command List**'
 try_again_info: 'If you detect problems with the service send a message to the official discord of **Hytale Fandom**.'
-command_list_desc_internal: |
-                            
-                            If you have any idea send them in the
-                            suggestion channel.
-                            
-                            **.invite**      Invite the bot to your Discord server.
-                            **.help**        Get the command list.
-                            **.ayuda**       Get the command list.
-                            **.find**        Search in the wikia.
-                            **.buscar**      Search in the wikia.
-                            
-                            :blue_book: **Hytale Fandom:** <https://es.hytale.wikia/>
-                            :orange_book: **Discord Oficial:** <https://discord.gg/NU4wmjD>
-                            :green_book: **Hytale Hispano:** <https://www.hytalehispano.es/>
-                            :closed_book: **Hytale Hispano Discord:** <https://discord.gg/mpzf2tg>
-                            
-command_list_title_external: '**Command List**'
-command_list_desc_external: |
-                            
-                            If you have any idea send them to the
-                            **Hytale Fandom** Discord.
-                            
-                            **.install**     (Admin) define the bot channel.
-                            **.invite**      Invite the bot to your Discord server.
-                            **.help**        Get the command list.
-                            **.ayuda**       Get the command list.
-                            **.find**        Search in the wikia.
-                            **.buscar**      Search in the wikia.
-                            
-                            :blue_book: **Hytale Fandom:** <https://es.hytale.wikia/>
-                            :orange_book: **Discord Oficial:** <https://discord.gg/NU4wmjD>
-                            
-                            **Bot developed by Hytale Hispano - 2019 - v3**
-                           
+command_list_title: '**Command List**'
+command_list_desc:  |
+                    
+                    If you have any idea send them in the
+                    suggestion channel.
+                    
+                    A0B1
+                    
+                    A0B2
+                    A0B3
+                    
+                    **Bot developed by Hytale Hispano - 2019 - v3** 
+
+command_install_tooltip: '(Admin) Define the bot channel.'
+command_invite_tooltip: 'Invite the bot to your Discord server.' 
+command_help_tooltip: 'Get the command list.'
+command_find_tooltip: 'Search in the wikia.'   
+command_lang_tooltip: 'Choose the language.'                       
 no_args_title: '**Missing arguments!**'
 no_args_reply:  |
                 
@@ -115,16 +98,14 @@ erroneous_argument_description: |
                                 You must specify the ID of a text channel
                                 here i have an example of how to use the command:
                                 
-change_language_title: '**Cambiar de lenguaje**'
+change_language_title: '**Change language**'
 change_language_description:    |
                                 
-                                Da click en la reacción que tiene la bandera del idioma especificado,
-                                luego de eso el bot automaticamente cambiará todos los mensajes e
-                                incluso subdominios a ese idioma (algunos son traducidos).
+                                Click on the reaction of the flag of the specified language, after that the bot will automatically change all messages and even subdomains to that language (some are translated).
                                 
-available_langs: '**Lenguajes disponibles:**'
-change_language_sucess_title: '**Idioma cambiado correctamente!**'
+available_langs: '**Available languages:**'
+change_language_sucess_title: '**Language changed correctly!**'
 change_language_sucess_description:    |
                                 
-                                       Has cambiado el lenguaje de A0B1 a A0B2.
+                                       You have changed the language from A0B1 to A0B2.
                                 
