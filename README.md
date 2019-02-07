@@ -1,0 +1,2 @@
+# hytale-wikia
+Discord bot.
