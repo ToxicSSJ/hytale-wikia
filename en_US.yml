@@ -1,0 +1,130 @@
+lang_literal: 'en_US'
+verified_message: 'This search was verified.'
+bomb_message: 'This message will self-destruct in A0B0 seconds...'
+command_list_title_internal: '**Command List**'
+try_again_info: 'If you detect problems with the service send a message to the official discord of **Hytale Fandom**.'
+command_list_desc_internal: |
+                            
+                            If you have any idea send them in the
+                            suggestion channel.
+                            
+                            **.invite**      Invite the bot to your Discord server.
+                            **.help**        Get the command list.
+                            **.ayuda**       Get the command list.
+                            **.find**        Search in the wikia.
+                            **.buscar**      Search in the wikia.
+                            
+                            :blue_book: **Hytale Fandom:** <https://es.hytale.wikia/>
+                            :orange_book: **Discord Oficial:** <https://discord.gg/NU4wmjD>
+                            :green_book: **Hytale Hispano:** <https://www.hytalehispano.es/>
+                            :closed_book: **Hytale Hispano Discord:** <https://discord.gg/mpzf2tg>
+                            
+command_list_title_external: '**Command List**'
+command_list_desc_external: |
+                            
+                            If you have any idea send them to the
+                            **Hytale Fandom** Discord.
+                            
+                            **.install**     (Admin) define the bot channel.
+                            **.invite**      Invite the bot to your Discord server.
+                            **.help**        Get the command list.
+                            **.ayuda**       Get the command list.
+                            **.find**        Search in the wikia.
+                            **.buscar**      Search in the wikia.
+                            
+                            :blue_book: **Hytale Fandom:** <https://es.hytale.wikia/>
+                            :orange_book: **Discord Oficial:** <https://discord.gg/NU4wmjD>
+                            
+                            **Bot developed by Hytale Hispano - 2019 - v3**
+                           
+no_args_title: '**Missing arguments!**'
+no_args_reply:  |
+                
+                You must specify, here i have an example
+                of how to use the bot command:
+                
+try_again_or_search_by_yourself: 'Try again, if you have problems with the service, search manually (Sorry).' 
+no_args_install_reply:  |
+                        
+                        You must specify the ID of the channel
+                        here i have an example of how to use the command:
+                        
+                        
+finding_results_title: "Searching 'A0B1'..."
+finding_results_footer: 'This message will be edited in a moment.'
+not_results_title: "**No results found about 'A0B1'!**"
+not_results_description:    |
+                            
+                            Try searching your-self or Contribute to the community and write it!.
+                            
+                            **Wikia:** A0B2
+                            **Create new article:** A0B3
+                            
+article_name: 'Article'
+article_found_title: "**A0B1:** A0B2"
+article_found_description:  |
+                            
+                            A0B3
+                            
+                            **See more:** A0B4
+                            **Edit:** A0B5
+                            **Wikia:** A0B6
+                            
+internal_error_title: '**¡Internal error!**'
+internal_error_description: |
+                            
+                            Internal error, possibly the servers are down or in maintenance.\n
+                            
+                            **Wikia:** A0B1
+                            **Article page:** A0B2
+                            
+generate_link_title: '**Generated Link**'
+generate_link_description:  |
+                            
+                            With this link you can invite me to your Discord Server,
+                            after that use the command {cmd}, to
+                            install the bot.
+                            
+need_admin_title: '**Error! Only Administrators**'
+need_admin_description: |
+                        
+                        You do not have the respective permits
+                        to be able to use this command.
+                        
+installation_sucess_title: '**Finished Installation**'
+installation_sucess_description:    |
+                                    
+                                    The bot can only send messages and detect commands here,
+                                    remember: you can see the Command List with
+                                    
+installation_error_is_not_textchannel_title: '**Only text channels are allowed!**'
+installation_error_is_not_textchannel_description:  |
+                                                    
+                                                    You must specify the ID of a text channel
+                                                    here i have an example of how to use the command:
+                                                    
+installation_error_id_not_exists_title: "**The channel with the ID 'A0B1' not exist!**"
+installation_error_id_not_exists_description:   |
+                                                
+                                                You must specify the ID of a text channel
+                                                here i have an example of how to use the command:
+                                                
+erroneous_argument_title: '**Wrong argument!**'
+erroneous_argument_description: |
+                                
+                                You must specify the ID of a text channel
+                                here i have an example of how to use the command:
+                                
+change_language_title: '**Cambiar de lenguaje**'
+change_language_description:    |
+                                
+                                Da click en la reacción que tiene la bandera del idioma especificado,
+                                luego de eso el bot automaticamente cambiará todos los mensajes e
+                                incluso subdominios a ese idioma (algunos son traducidos).
+                                
+available_langs: '**Lenguajes disponibles:**'
+change_language_sucess_title: '**Idioma cambiado correctamente!**'
+change_language_sucess_description:    |
+                                
+                                       Has cambiado el lenguaje de A0B1 a A0B2.
+                                
