@@ -1,111 +1,107 @@
 lang_literal: 'ru_RU'
-verified_message: 'This search was verified.'
-bomb_message: 'This message will self-destruct in A0B0 seconds...'
-try_again_info: 'If you detect problems with the service send a message to the official discord of **Hytale Fandom**.'
-command_list_title: '**Command List**'
+verified_message: 'Поиск Завершён Успешно.'
+bomb_message: 'Это сообщение будет удалено через A0B0 секунд...'
+try_again_info: 'Если у вас возникнут проблемы, отправьте отзыв на официальный Discord сервер **Hytale Fandom**.'
+command_list_title: '**Список Комманд**'
 command_list_desc:  |
                     
-                    If you have any idea send them in the
-                    suggestion channel.
+                    Если у вас есть идеи, расскажите их нашим Администраторам.
                     
                     A0B1
                     
                     A0B2
                     A0B3
                     
-                    **Bot developed by Hytale Hispano - 2019 - v3** 
+                    **Бот Разработан "Hytale Hispano" - 2019 - v3** 
 
-command_install_tooltip: '(Admin) Define the bot channel.'
-command_invite_tooltip: 'Invite the bot to your Discord server.' 
-command_help_tooltip: 'Get the command list.'
-command_find_tooltip: 'Search in the wikia.'   
-command_lang_tooltip: 'Choose the language.'                       
-no_args_title: '**Missing arguments!**'
+command_install_tooltip: '(Админ) Установить канал для бота.'
+command_invite_tooltip: 'Пригласить бота на сервер.' 
+command_help_tooltip: 'Получить список команд.'
+command_find_tooltip: 'Искать на Вики.'   
+command_lang_tooltip: 'Выберите язык.'                       
+no_args_title: '**Отсутствуют Аргументы!**'
 no_args_reply:  |
                 
-                You must specify, here i have an example
-                of how to use the bot command:
+                Вы должны указать аргументы, вот пару примеров как это сделать:
                 
-try_again_or_search_by_yourself: 'Try again, if you have problems with the service, search manually (Sorry).' 
+try_again_or_search_by_yourself: 'Попробуйте еще раз, если у вас возникли проблемы, ищите самостоятельно (Извините).' 
 no_args_install_reply:  |
                         
-                        You must specify the ID of the channel
-                        here i have an example of how to use the command:
+                        Вы должы указать ID канала,
+                        вот пример как это сделать:
                         
                         
-finding_results_title: "Searching 'A0B1'..."
-finding_results_footer: 'This message will be edited in a moment.'
-not_results_title: "**No results found about 'A0B1'!**"
+finding_results_title: "Поиск 'A0B1'..."
+finding_results_footer: 'Это сообщение редактирует кто то другой.'
+not_results_title: "**Поиск не дал результатов на ваш запрос: 'A0B1'!**"
 not_results_description:    |
                             
-                            Try searching your-self or Contribute to the community and write it!.
+                            Попробуйте поискать самостоятельно или внестие свой вклад в сообщество, напишите это!.
                             
-                            **Wikia:** A0B2
-                            **Create new article:** A0B3
+                            **Вики:** A0B2
+                            **Создать новую статью:** A0B3
                             
-article_name: 'Article'
+article_name: 'Статья'
 article_found_title: "**A0B1:** A0B2"
 article_found_description:  |
                             
                             A0B3
                             
-                            **See more:** A0B4
-                            **Edit:** A0B5
-                            **Wikia:** A0B6
+                            **Читать дальше:** A0B4
+                            **Править:** A0B5
+                            **Вики:** A0B6
                             
-internal_error_title: '**¡Internal error!**'
+internal_error_title: '**¡Внутренняя ошибка!**'
 internal_error_description: |
                             
-                            Internal error, possibly the servers are down or in maintenance.\n
+                            Внутренняя ошибка, возможно серверы сейчас не работают, или проходят техническую проверку.\n
                             
-                            **Wikia:** A0B1
-                            **Article page:** A0B2
+                            **Вики:** A0B1
+                            **Страница статьи:** A0B2
                             
-generate_link_title: '**Generated Link**'
+generate_link_title: '**Сгенерировать ссылку**'
 generate_link_description:  |
                             
-                            With this link you can invite me to your Discord Server,
-                            after that use the command {cmd}, to
-                            install the bot.
+                            С этой ссылкой, вы сможете приглашать людей в свой Discord сервер
+                            после использовании этой команды {cmd}.
                             
-need_admin_title: '**Error! Only Administrators**'
+need_admin_title: '**Недостатоно прав! Эта команда доступна только Администраторам сервера**'
 need_admin_description: |
                         
-                        You do not have the respective permits
-                        to be able to use this command.
+                        У вас недостаточно прав что бы использовать эту команду.
                         
-installation_sucess_title: '**Finished Installation**'
+installation_sucess_title: '**Установка Окончена**'
 installation_sucess_description:    |
                                     
-                                    The bot can only send messages and detect commands here,
-                                    remember: you can see the Command List with
+                                    Бот может отправлять сообщения и определять команды только здесь,
+                                    Помните: Вы можете посмотерть в списке команд все команды бота.
                                     
-installation_error_is_not_textchannel_title: '**Only text channels are allowed!**'
+installation_error_is_not_textchannel_title: '**Только текстовые каналы!**'
 installation_error_is_not_textchannel_description:  |
                                                     
-                                                    You must specify the ID of a text channel
-                                                    here i have an example of how to use the command:
+                                                    Вы должны указать ID текстового канала,
+                                                    вот вам пример как это сделать:
                                                     
-installation_error_id_not_exists_title: "**The channel with the ID 'A0B1' not exist!**"
+installation_error_id_not_exists_title: "**Канал с ID 'A0B1' не существует!**"
 installation_error_id_not_exists_description:   |
                                                 
-                                                You must specify the ID of a text channel
-                                                here i have an example of how to use the command:
+                                                Вы должны указать ID текстового канала
+                                                вот вам пример как это сделать:
                                                 
-erroneous_argument_title: '**Wrong argument!**'
+erroneous_argument_title: '**Неправильный аргумент!**'
 erroneous_argument_description: |
                                 
-                                You must specify the ID of a text channel
-                                here i have an example of how to use the command:
+                                Вы должны указать ID текстового канала
+                                вот вам пример как это сделать:
                                 
-change_language_title: '**Change language**'
+change_language_title: '**Ссменить Язык**'
 change_language_description:    |
                                 
-                                Click on the reaction of the flag of the specified language, after that the bot will automatically change all messages and even subdomains to that language (some are translated).
+                                Нажмите на реакцию с рисунком флага, что бы выбрать язык. После чего, бот автоматически поменяет все сообщения и субдомены на язык который вы указали (Некоторые языки переведены).
                                 
-available_langs: '**Available languages:**'
-change_language_sucess_title: '**Language changed correctly!**'
+available_langs: '**Доступные Языки:**'
+change_language_sucess_title: '**Язык был успешно сменён!**'
 change_language_sucess_description:    |
                                 
-                                       You have changed the language from A0B1 to A0B2.
+                                       Вы поменяли язык с A0B1 на A0B2.
                                 
